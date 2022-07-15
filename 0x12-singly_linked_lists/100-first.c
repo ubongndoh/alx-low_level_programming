@@ -6,7 +6,7 @@
  **
  ** Return: nothing
  */
-void show_first(void)
+void startup(void)
 {
 	char *str;
 
